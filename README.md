@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dinushamalshan37-oss/dinushamalshan37-oss/main/assets/avatar-frame.svg" width="200" alt="Dinusha Malshan" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Dinusha Malshan</h1>
 <h3 align="center">Full-Stack Developer | Software Engineering Student at NIBM</h3>
 
