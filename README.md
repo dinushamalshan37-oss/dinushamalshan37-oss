@@ -18,7 +18,7 @@
 - 🌐 Passionate about building creative, responsive & user-friendly websites
 - 🚀 Currently learning **Django + MySQL** for full-stack e-commerce projects
 - 💡 Love turning ideas into clean, working code
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **dinushamalshan37.com**
 - ⚡ Fun fact: I enjoy giving old projects a fresh, modern redesign
 
 ---
