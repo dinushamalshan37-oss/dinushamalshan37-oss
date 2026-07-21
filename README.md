@@ -18,7 +18,7 @@
 - 🌐 Passionate about building creative, responsive & user-friendly websites
 - 🚀 Currently learning **Django + MySQL** for full-stack e-commerce projects
 - 💡 Love turning ideas into clean, working code
-- 📫 Reach me at: **dinushamalshan37.com**
+- 📫 Reach me at: **your-email@example.com**
 - ⚡ Fun fact: I enjoy giving old projects a fresh, modern redesign
 
 ---
@@ -78,14 +78,10 @@
 
 ### 📌 Popular Repositories
 
-<p align="center">
-  <a href="https://github.com/dinushamalshan37-oss/my-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dinushamalshan37-oss&repo=my-website&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/dinushamalshan37-oss/DM-CLOTHING">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dinushamalshan37-oss&repo=DM-CLOTHING&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Repo | Description |
+|------|-------------|
+| 🔗 [**my-website**](https://github.com/dinushamalshan37-oss/my-website) | Personal portfolio — creative, responsive & user-friendly website |
+| 🔗 [**DM-CLOTHING**](https://github.com/dinushamalshan37-oss/DM-CLOTHING) | Clothing brand web project built with HTML, CSS & JS |
 
 ---
 
