@@ -99,10 +99,6 @@ motto: "Learn. Build. Improve. Repeat."
   <img src="https://streak-stats.demolab.com?user=dinushamalshan37-oss&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dinushamalshan37-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
 🌈 Languages I Use / Used / Learning
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
