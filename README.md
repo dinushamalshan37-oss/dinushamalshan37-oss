@@ -1,230 +1,250 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    DINUSHA MALSHAN • GITHUB PROFILE                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--
+  PROFILE README — monochrome edition
+  Owner: dinushamalshan37-oss
+  Colors: black · charcoal · gray · silver
+  Automatically updated section: AUTO-LANGUAGES; do not remove its markers.
+-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:0F766E,100:38B2AC&amp;height=220&amp;section=header&amp;text=Dinusha%20Malshan&amp;fontSize=49&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=37&amp;desc=Software%20Engineering%20Student%20%7C%20Developer%20%7C%20Maker&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Dinusha Malshan header" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080808,50:202020,100:464646&amp;height=230&amp;section=header&amp;text=Dinusha%20Malshan&amp;fontSize=50&amp;fontColor=F5F5F5&amp;animation=fadeIn&amp;fontAlignY=37&amp;desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20DEVELOPER%20%7C%20MAKER&amp;descAlignY=61&amp;descSize=15" width="100%" alt="Black and gray Dinusha Malshan banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=550&amp;size=20&amp;duration=3400&amp;pause=1000&amp;color=C5C5C5&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=50&amp;lines=Building+thoughtful+software+from+idea+to+code.;Full-Stack+%7C+Android+%7C+Linux+%7C+IoT;Exploring+systems%2C+security+and+AI.;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction" />
+
+<p><b>Software Engineering @ NIBM, Sri Lanka</b></p>
+<p>Full-Stack Development &nbsp;·&nbsp; Mobile Apps &nbsp;·&nbsp; Linux &amp; Security &nbsp;·&nbsp; Robotics & IoT</p>
+
+<img src="https://komarev.com/ghpvc/?username=dinushamalshan37-oss&amp;label=PROFILE%20VIEWS&amp;color=303030&amp;style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/dinushamalshan37-oss?label=FOLLOWERS&amp;style=for-the-badge&amp;color=303030" alt="Followers" />
+<img src="https://img.shields.io/github/stars/dinushamalshan37-oss?label=STARS&amp;style=for-the-badge&amp;color=303030" alt="GitHub stars" />
+
+<p>
+  <a href="#about-me">About</a> &nbsp;·&nbsp;
+  <a href="#languages--learning-roadmap">Languages</a> &nbsp;·&nbsp;
+  <a href="#tech-stack--tools">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#github-analytics">Analytics</a> &nbsp;·&nbsp;
+  <a href="#connect">Contact</a>
+</p>
+
+<a href="https://github.com/dinushamalshan37-oss"><img src="https://img.shields.io/badge/GitHub-353535?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/dinusha-malshan-20a9ab359/"><img src="https://img.shields.io/badge/LinkedIn-353535?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/~019eb62f2277597a94"><img src="https://img.shields.io/badge/Upwork-353535?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=upwork" alt="Upwork" /></a>
+  <a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-353535?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=gumroad" alt="Gumroad" /></a>
+  <a href="mailto:dinushamalshan37@gmil.com"><img src="https://img.shields.io/badge/Email-353535?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=gmail" alt="Email" /></a>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=38B2AC&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Hi%2C+I%27m+Dinusha+Malshan+%F0%9F%91%8B;Software+Engineering+Student+%40+NIBM;Full-Stack+%7C+Android+%7C+Robotics;Building+StudyBuddy+Geo+%26+OSINT+Tracker;Turning+Coffee+Into+Code+%E2%98%95" alt="Animated introduction" />
-</div>
-
-<div align="center">
-  <p><strong>🇱🇰 19-year-old developer from Sri Lanka</strong> &nbsp;·&nbsp; 🎓 NIBM Software Engineering Student</p>
-  <p>💻 Full-Stack &nbsp;·&nbsp; 📱 Mobile &nbsp;·&nbsp; 🤖 Robotics & IoT &nbsp;·&nbsp; 🛡️ Cybersecurity</p>
-  <p>☕ Late-night coder powered by black coffee and aloe vera drinks 🥤</p>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinushamalshan37-oss&amp;label=PROFILE+VIEWS&amp;color=38B2AC&amp;style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/dinushamalshan37-oss?label=FOLLOWERS&amp;style=for-the-badge&amp;color=38B2AC" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/dinushamalshan37-oss?label=STARS&amp;style=for-the-badge&amp;color=38B2AC" alt="GitHub stars" />
-</div>
-
-
-<!-- 🔗 YOUR SOCIAL & FREELANCE LINKS -->
-<div align="center">
-  <a href="mailto:dinushamalshan37@gmil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/dinusha-malshan-20a9ab359/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.upwork.com/freelancers/~019eb62f2277597a94"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Upwork" /></a>
-  <a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&amp;logo=gumroad&amp;logoColor=black" alt="Gumroad" /></a>
-  <a href="https://github.com/dinushamalshan37-oss"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-</div>
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-
-👨‍💻 About Me
-I'm Dinusha Malshan, a software engineering student at the National Institute of Business Management (NIBM), Sri Lanka. I enjoy building web and mobile apps, experimenting with embedded systems, exploring OSINT and privacy, and turning ideas into practical projects.
-const dinusha = {
-  location: "Sri Lanka 🇱🇰",
+About Me
+I'm Dinusha Malshan, a software engineering student at NIBM, Sri Lanka, interested in building practical software across web, mobile, systems, and hardware. I enjoy understanding how things work, turning an idea into a working project, and improving the result through iteration.
+const developer = {
+  name: "Dinusha Malshan",
+  location: "Sri Lanka",
   education: "Software Engineering @ NIBM",
-  focus: ["Full-Stack", "Android", "Robotics", "Cybersecurity"],
-  building: ["StudyBuddy Geo", "OSINT & Anti-Scam Tracker"],
-  exploring: ["Rust", "Next.js", "Embedded Systems", "UI/UX"],
-  fuel: ["Black Coffee ☕", "Aloe Vera 🥤"],
-  motto: "Learn. Build. Improve. Repeat."
+  interests: ["Full-Stack", "Android", "Linux", "Cybersecurity", "IoT"],
+  exploring: ["Rust", "AI Agents", "Systems Programming"],
+  philosophy: "Learn. Build. Improve. Repeat."
 };
-- 🔭 Currently building: StudyBuddy Geo and OSINT & Anti-Scam Data Tracker
-- 🌱 Learning and exploring: Rust backends, Next.js, cybersecurity, mobile apps, and IoT
-- 🏎️ Hardware hobby: Custom ESP32-S3-powered 4WD robot
-- 🎨 Creative side: Digital graphic design and Mercedes-AMG F1-themed t-shirt concepts
-- 📚 Author: The Complete Front-End Developer Guide: HTML to React in 30 Days
-- 🤝 Open to: Interesting projects, freelance work, and developer collaborations
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-
-⚡ Tech Stack & Tools
+- Current interests: Linux tooling, AI agents, Android applications, secure backend systems.
+- Hands-on domains: Full-stack web apps, Kotlin/Android, ESP32 robotics, and database projects.
+- Collaboration: Open-source contributions, practical student projects, and freelance development.
+Languages & Learning Roadmap
+Languages I've Used or Worked With
+A visible, manually maintained list of languages and web markup I have used, studied, or explored. This list is not a claim of equal proficiency in every language.
 <div align="center">
-
-🌐 Frontend & Web
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark" alt="Frontend technologies" />
-
-
-⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,rust,prisma,mongodb,firebase,sqlite&amp;theme=dark" alt="Backend technologies" />
-
-
-📱 Programming, Android & Hardware
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cpp,python,arduino&amp;theme=dark" alt="Programming and hardware" />
-
-
-🧰 Design & Developer Tools
-<img src="https://skillicons.dev/icons?i=figma,vscode,git,github,linux,postman&amp;theme=dark" alt="Development tools" />
-
-
-
-
-<img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle Database" />
-<img src="https://img.shields.io/badge/Roblox%20Studio-111111?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=white" alt="Roblox Studio" />
-<img src="https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP32" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white" alt="VirtualBox" />
-
+  <img src="https://img.shields.io/badge/Python-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Kotlin-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=kotlin" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/Rust-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=rust" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%2B%2B-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=cplusplus" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=sqlite" alt="SQL" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=oracle" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/Luau-242424?style=for-the-badge&amp;logoColor=FFFFFF" alt="Luau" />
 </div>
 
-Also working with: Luau, Oracle SQL, qBittorrent, and embedded sensors.
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+Future Learning Roadmap
+Languages on my radar for future projects and experimentation — learning goals, not current expertise.
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=go" alt="Go" />
+  <img src="https://img.shields.io/badge/C-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=csharp" alt="C#" />
+  <img src="https://img.shields.io/badge/Bash-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=gnubash" alt="Bash" />
+  <img src="https://img.shields.io/badge/Dart-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=dart" alt="Dart" />
+  <img src="https://img.shields.io/badge/Swift-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=swift" alt="Swift" />
+  <img src="https://img.shields.io/badge/Zig-242424?style=for-the-badge&amp;logoColor=FFFFFF" alt="Zig" />
+  <img src="https://img.shields.io/badge/Scala-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=scala" alt="Scala" />
+  <img src="https://img.shields.io/badge/Elixir-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=elixir" alt="Elixir" />
+  <img src="https://img.shields.io/badge/PHP-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/Ruby-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=ruby" alt="Ruby" />
+  <img src="https://img.shields.io/badge/R-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=r" alt="R" />
+</div>
 
-🚀 Featured Software Projects
+All Languages Detected on GitHub — Auto Updating
+This section reads GitHub's language data from my owned, public, non-fork repositories. New languages are added here automatically by the included GitHub Actions workflow, generally once per day or when run manually.
+<!-- AUTO-LANGUAGES:START -->
+<p align="center"><i>Language inventory appears here after the first successful GitHub Actions run. The language badges above are already visible.</i></p>
+<!-- AUTO-LANGUAGES:END -->
+
+Most Used Languages — Live Ranking
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&amp;layout=compact&amp;langs_count=20&amp;size_weight=0.5&amp;count_weight=0.5&amp;card_width=520&amp;hide_border=true&amp;bg_color=0D0D0D&amp;title_color=E0E0E0&amp;text_color=B9B9B9&amp;icon_color=AAAAAA&amp;border_color=2B2B2B" alt="Live GitHub language ranking" />
+</div>
+
+<p align="center"><sub>The live card shows up to 20 ranked languages; the auto-updating inventory above can list more. Percentages reflect source-code volume, not skill level. Private repositories are excluded.</sub></p>
+
+Tech Stack & Tools
+Frontend & Web
+<div align="center">
+  <img src="https://img.shields.io/badge/React-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=nextdotjs" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=tailwindcss" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=typescript" alt="TypeScript" />
+</div>
+
+
+Backend & Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=nodedotjs" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Rust-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=rust" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Prisma-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=prisma" alt="Prisma" />
+  <img src="https://img.shields.io/badge/MongoDB-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQLite-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=sqlite" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Oracle%20Database-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=oracle" alt="Oracle Database" />
+</div>
+
+
+Mobile, Robotics & IoT
+<div align="center">
+  <img src="https://img.shields.io/badge/Android-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=android" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=kotlin" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Arduino-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=arduino" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-242424?style=for-the-badge&amp;logoColor=FFFFFF" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Roblox%20Studio-242424?style=for-the-badge&amp;logoColor=FFFFFF" alt="Roblox Studio" />
+</div>
+
+
+Developer Tools & Environments
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=linux" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=visualstudiocode" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=postman" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/VirtualBox-242424?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=virtualbox" alt="VirtualBox" />
+</div>
+
+Featured Projects
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📍 StudyBuddy Geo</h3>
-      <p><strong>Smart campus study-group discovery</strong></p>
-      <p>An Android app concept for university students to find nearby study groups using <strong>geofencing</strong> and <strong>noise sensing</strong>.</p>
-      <p><strong>Stack:</strong> Kotlin · Jetpack Compose · Android</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ OSINT & Anti-Scam Tracker</h3>
-      <p><strong>Public-data research and tracking</strong></p>
-      <p>A web platform combining a <strong>Rust backend</strong> (Axum/Actix-web) with a <strong>Next.js + TypeScript frontend</strong>.</p>
-      <p><strong>Stack:</strong> Rust · Next.js · TypeScript</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💬 Real-Time Chat App</h3>
-      <p><strong>Modern Android messaging</strong></p>
-      <p>Real-time chat using Firebase Cloud Firestore, Jetpack Compose UI, and custom navigation.</p>
-      <p><strong>Stack:</strong> Kotlin · Jetpack Compose · Firebase</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Custom 4WD Smart Robot</h3>
-      <p><strong>Robotics + GPS + obstacle detection</strong></p>
-      <p>A smart vehicle using an ESP32-S3, ultrasonic and IR sensors, servo, GPS, and GSM communication.</p>
-      <p><strong>Stack:</strong> ESP32-S3 · C++ · Sensors · IoT</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 Digital Marketplace Architecture</h3>
-      <p><strong>Eneba-style marketplace research</strong></p>
-      <p>Exploring architecture and design for a digital marketplace built around modern full-stack technologies.</p>
-      <p><strong>Stack:</strong> Next.js App Router · Tailwind CSS · Prisma · MongoDB</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Roblox Game Development</h3>
-      <p><strong>Interactive experiences with Luau</strong></p>
-      <p>Custom games, leaderboards, DataStore persistence, and coin-collection mechanics.</p>
-      <p><strong>Stack:</strong> Luau · Roblox Studio</p>
-    </td>
-  </tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3>LinuxGuard</h3>
+    <p><b>Linux security & performance monitoring</b></p>
+    <p>System monitoring dashboard for CPU, memory, processes, storage and defensive security checks.</p>
+    <p><code>Python</code> <code>SQLite</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+  </td>
+  <td width="50%" valign="top">
+    <h3>StudyBuddy Geo</h3>
+    <p><b>Smart campus study-group discovery</b></p>
+    <p>Android project concept using location-based discovery, geofencing and ambient context.</p>
+    <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Android</code></p>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3>OSINT & Anti-Scam Tracker</h3>
+    <p><b>Public-data research & scam awareness</b></p>
+    <p>A proposed research platform combining a Rust backend with a modern web frontend.</p>
+    <p><code>Rust</code> <code>Next.js</code> <code>TypeScript</code></p>
+  </td>
+  <td width="50%" valign="top">
+    <h3>Real-Time Chat App</h3>
+    <p><b>Android messaging experience</b></p>
+    <p>Modern messaging with Firebase Cloud Firestore and Jetpack Compose UI.</p>
+    <p><code>Kotlin</code> <code>Firebase</code> <code>Android</code></p>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3>ESP32-S3 Smart Robot</h3>
+    <p><b>Custom 4WD robot project</b></p>
+    <p>Robotics exploration with GPS, ultrasonic/IR sensors, steering servo and communication modules.</p>
+    <p><code>C++</code> <code>ESP32-S3</code> <code>IoT</code></p>
+  </td>
+  <td width="50%" valign="top">
+    <h3>Digital Marketplace Architecture</h3>
+    <p><b>Full-stack marketplace exploration</b></p>
+    <p>Exploring architecture for a digital-product marketplace using modern web technologies.</p>
+    <p><code>Next.js</code> <code>Tailwind CSS</code> <code>Prisma</code> <code>MongoDB</code></p>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3>Roblox Development</h3>
+    <p><b>Interactive game systems</b></p>
+    <p>Games featuring leaderboards, DataStore persistence and player-facing mechanics.</p>
+    <p><code>Luau</code> <code>Roblox Studio</code></p>
+  </td>
+  <td width="50%" valign="top">
+    <h3>Frontend Developer Guide</h3>
+    <p><b>Learning resources and developer writing</b></p>
+    <p>An e-book covering HTML, CSS, JavaScript and React fundamentals for learners.</p>
+    <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>React</code></p>
+  </td>
+</tr>
 </table>
 
+<p align="center"><a href="https://github.com/dinushamalshan37-oss?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-242424?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse all repositories" /></a></p>
+
+Learning & Milestones
+Focus	Details
+Education	Software Engineering at NIBM, Sri Lanka
+Frontend	Wrote The Complete Front-End Developer Guide: HTML to React in 30 Days
+Databases	Oracle SQL and PL/SQL coursework
+Systems	Linux monitoring and security experiments
+Hardware	ESP32-S3 robotics and sensor integration
+Research	OSINT, responsible data use and anti-scam ideas
+Developer achievements	GitHub Pull Shark, Quickdraw and YOLO (as listed in my earlier profile)
+Creative interests	Digital graphic design and design concepts
+
+
+Published E-Book
+The Complete Front-End Developer Guide: HTML to React in 30 Days — published on Gumroad (August 2026).
+Cybersecurity & Research Interests
+Kali Linux, Parrot Security Edition, Tails OS, OSINT and privacy research, plus responsible investigations of public information.
+<p align="center"><a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20GUMROAD-303030?style=for-the-badge&amp;logo=gumroad&amp;logoColor=white" alt="Explore my Gumroad store" /></a></p>
+
+GitHub Analytics
 <div align="center">
-  <a href="https://github.com/dinushamalshan37-oss?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Repositories-38B2AC?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=dinushamalshan37-oss&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D0D0D&amp;title_color=E0E0E0&amp;text_color=B9B9B9&amp;icon_color=AAAAAA&amp;border_color=2B2B2B" alt="GitHub account statistics" />
+
+<img src="https://streak-stats.demolab.com?user=dinushamalshan37-oss&amp;theme=dark&amp;hide_border=true&amp;background=0D0D0D&amp;ring=AAAAAA&amp;fire=858585&amp;currStreakLabel=D6D6D6&amp;sideLabels=BBBBBB&amp;dates=888888" alt="GitHub contribution streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinushamalshan37-oss&amp;theme=github_dark" width="100%" alt="GitHub contribution details" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+Connect
+<p align="center">Interested in software projects, open-source contributions, or collaboration? Let's connect.</p>
 
-🏆 Achievements & Milestones
-🎯 Highlight	Details
-🎓 Education	Software Engineering at NIBM Sri Lanka
-🦈 GitHub Pull Shark	GitHub achievement
-⚡ GitHub Quickdraw	GitHub achievement
-🚀 GitHub YOLO	GitHub achievement
-🗃️ Oracle Database	Completed 31-task SQL coursework for ImagineF
-📚 Author	Published a front-end development e-book in August 2026
-🤖 Maker	Built a custom ESP32-S3 4WD smart robot
-
-
-📖 My E-Book
-The Complete Front-End Developer Guide: HTML to React in 30 Days
-
-A guide to learning front-end development, from HTML fundamentals to building with React. Published on Gumroad in August 2026.
 <div align="center">
-  <a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/View%20My%20Gumroad%20Store-FF90E8?style=for-the-badge&amp;logo=gumroad&amp;logoColor=black" alt="My Gumroad store" /></a>
+<a href="https://github.com/dinushamalshan37-oss"><img src="https://img.shields.io/badge/GitHub-353535?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/dinusha-malshan-20a9ab359/"><img src="https://img.shields.io/badge/LinkedIn-353535?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/~019eb62f2277597a94"><img src="https://img.shields.io/badge/Upwork-353535?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=upwork" alt="Upwork" /></a>
+  <a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-353535?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=gumroad" alt="Gumroad" /></a>
+  <a href="mailto:dinushamalshan37@gmil.com"><img src="https://img.shields.io/badge/Email-353535?style=for-the-badge&amp;logoColor=FFFFFF&amp;logo=gmail" alt="Email" /></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-
-🕵️ Cybersecurity, Privacy & Research
-- Security environments: Kali Linux, Parrot Security Edition, and Tails OS
-- Research interests: OSINT, anti-scam intelligence, and responsible use of public data
-- Finance and innovation: Colombo Stock Exchange (CSE), Cargills Bank PLC research,solar net metering in Sri Lanka
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-
-📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinushamalshan37-oss&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38B2AC&amp;icon_color=38B2AC&amp;text_color=FFFFFF" alt="GitHub statistics" />
-</div>
-
-📈 Most Used Languages (Live GitHub Statistics)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&amp;layout=compact&amp;langs_count=20&amp;size_weight=0.5&amp;count_weight=0.5&amp;card_width=480&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38B2AC&amp;text_color=FFFFFF" alt="Most used languages across public GitHub repositories" />
-</div>
-
-💻 All Languages I've Worked With
-<!-- This is a manually maintained list of languages/markup used or explored.
-     Unlike the chart above, these badges do not depend on GitHub's language statistics.
-     Add a badge when you work with another language. -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="PL/SQL" />
-  <img src="https://img.shields.io/badge/Luau-0052CC?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=white" alt="Luau" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3" />
-</div>
-
-<p align="center"><i>Languages and markup I've used or explored — this list stays visible even when a language is missing from the live statistics card.</i></p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dinushamalshan37-oss&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=38B2AC&amp;fire=FF9800&amp;currStreakLabel=38B2AC" alt="GitHub contribution streak" />
-</div>
-
-<h3>📈 Contribution Activity</h3>
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinushamalshan37-oss&amp;theme=tokyonight"
-    width="100%"
-    alt="GitHub Contribution Summary"
-  />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-
-🤝 Let's Connect & Collaborate
-<div align="center">
-  <h3>Have a project idea? Let's build something awesome! 🚀</h3>
-  <p>I'm interested in software projects, freelance opportunities, and connecting with developers around the world.</p>
-  <a href="mailto:dinushamalshan37@gmil.com"><img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
-  <a href="https://www.linkedin.com/in/dinusha-malshan-20a9ab359/"><img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.upwork.com/freelancers/~019eb62f2277597a94"><img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14A800?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Hire me on Upwork" /></a>
-  <a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/My%20E--Book-FF90E8?style=for-the-badge&amp;logo=gumroad&amp;logoColor=black" alt="My e-book" />
-</a>
-  <br/><br/>
-  <p><strong>⭐ If you find one of my projects useful, consider giving it a star!</strong></p>
-  <p><em>"Learn. Build. Improve. Repeat."</em></p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:38B2AC,50:0F766E,100:0D1117&amp;height=130&amp;section=footer" width="100%" alt="Footer wave" />
+<p><i>“Learn. Build. Improve. Repeat.”</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:464646,50:202020,100:080808&amp;height=120&amp;section=footer" width="100%" alt="Black and gray footer" />
 </div>
