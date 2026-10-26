@@ -1,75 +1,72 @@
 <div align="center">
-
-# Hi 👋, I'm Dinusha Malshan
-
-**Full-Stack Developer | Software Engineering Undergraduate**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinusha-malshan-20a9ab359)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinushamalshan37@gmail.com)
-
----
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dinusha+Malshan+!+%F0%9F%91%8B;Software+Eng+Student+%40+NIBM+Sri+Lanka;Full-Stack+%7C+Mobile+%7C+Robotics;Building+StudyBuddy+Geo+%26+OSINT+Tracker" alt="Typing SVG" />
 </div>
 
-### 🎯 About Me
-
-* 🎓 **Education:** Reading for B.Sc. / Higher Diploma in Software Engineering at **NIBM**
-* 💻 **Core Focus:** Building modern, scalable, and responsive web & mobile applications
-* 🚀 **Currently Learning:** Advanced **Django Architecture** & **Full-Stack E-Commerce Solutions**
-* ⚡ **Passion:** Refining UI/UX designs and transforming ideas into functional code
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend & Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🚀 Highlighted Projects
-
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| [**my-website**](https://github.com/dinushamalshan37-oss/my-website) | Personal developer portfolio showcasing projects and skills. | HTML, CSS, JavaScript |
-| [**DM-CLOTHING**](https://github.com/dinushamalshan37-oss/DM-CLOTHING) | Fully responsive web application for a clothing brand. | HTML, CSS, JavaScript, Django |
-| [**my-cafe-web**](https://github.com/dinushamalshan37-oss/my-cafe-web) | Modern cafe interface featuring online menu & services. | HTML, CSS, JavaScript |
-
----
-
-### 📊 GitHub Activity
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dinushamalshan37-oss&show_icons=true&theme=dark&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinushamalshan37-oss&theme=dark&hide_border=true" width="48%" />
-
+  <p>19-year-old developer from Sri Lanka 🇱🇰 | Late-night coder fueled by black coffee & aloe vera drinks ☕</p>
 </div>
 
----
+<div align="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://gumroad.com/"><img src="https://img.shields.io/badge/My_E--Book-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Gumroad" /></a>
+</div>
+
+<br/>
+
+### 👨‍💻 About Me & My Work
+I pursue software development across full-stack, mobile, and web domains, while also tinkering with embedded systems and hardware. 
+- 🎓 **Education:** Studying Software Engineering at the National Institute of Business Management (NIBM).
+- 🏆 **Achievements:** GitHub Badges (Quickdraw, YOLO, Pull Shark) | Completed 31-task Oracle SQL database coursework for "ImagineF".
+- 📚 **Author:** Published *"The Complete Front-End Developer Guide: HTML to React in 30 Days"* on Gumroad (August 2026).
+- 🎨 **Design:** Exploring digital graphic design freelancing and designing Mercedes-AMG F1 team t-shirt concepts.
+
+<br/>
+
+### ⚡ Tech Stack & Tools
 
 <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,kotlin,androidstudio,rust,cpp,python,mongodb,firebase,sqlite,arduino,figma,vscode,linux,kali&perline=10" alt="Tech Stack" />
+  </a>
+</div>
+<br/>
 
-🤝 **Open to collaboration and software engineering opportunities!**
+* **Other Tech & Tools:** Luau (Roblox Studio), Oracle Database, qBittorrent, VirtualBox, uBlock Origin, Tor.
 
+<br/>
+
+### 🚀 Featured Software Projects
+- 📍 **StudyBuddy Geo:** Jetpack Compose Android app for uni students to find study groups using geofencing & noise sensing.
+- 🛡️ **OSINT & Anti-Scam Data Tracker:** Web app utilizing a Rust (Axum/Actix-web) backend and a Next.js (TypeScript) frontend.
+- 💬 **Real-Time Chat App:** Built with Kotlin, Jetpack Compose, and Firebase Cloud Firestore featuring custom navigation.
+- 🎮 **Roblox Game Dev:** Custom game creation with Luau scripting, custom leaderboards, DataStore saving, and coin collection mechanics.
+
+<br/>
+
+### 🤖 Hardware, Robotics & Setup
+- **Custom 4WD Smart Robot Vehicle:** Built using ESP32-S3, C++, SG90 Micro Servo, HC-SR04 Ultrasonic Sensor, IR obstacle avoidance sensors, NEO-6M GPS module, SIM800L GSM module, and an LM2596 buck converter.
+- **Custom PC Build:** AMD Ryzen 5 5600, GALAX RTX 2060 6GB, 16GB DDR4 RAM, NVMe SSD, Skydigital 600W PSU, protected by a PROLINK 1200VA UPS. Paired with a 144Hz monitor and T-Wolf keyboard for dev & gaming.
+- **Mobile Device:** iPhone 12 Pro (iOS 27).
+
+<br/>
+
+### 🎮 Beyond Coding
+When I'm not coding, I'm probably:
+- **Gaming:** RDR2, Watch Dogs 2, Call of Duty (WaW, MW3), AC4 Black Flag, Far Cry 4, Delta Force: Hawk Ops, or playing FC Mobile & Dream Cricket 2025 on my phone.
+- **Watching:** Crime dramas and psychological thrillers like *The Mentalist, The Silence of the Lambs, Psycho, Oldboy, I Saw the Devil,* and *The Godfather*.
+
+<br/>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
