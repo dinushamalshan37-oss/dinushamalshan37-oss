@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/github/stars/dinushamalshan37-oss?label=STARS&amp;style=for-the-badge&amp;color=38B2AC" alt="GitHub stars" />
 </div>
 
-<br/>
 
 <!-- 🔗 YOUR SOCIAL & FREELANCE LINKS -->
 <div align="center">
@@ -33,15 +32,11 @@
   <a href="https://github.com/dinushamalshan37-oss"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 </div>
 
-<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
-## 👨‍💻 About Me
-
-I'm **Dinusha Malshan**, a software engineering student at the **National Institute of Business Management (NIBM), Sri Lanka**. I enjoy building web and mobile apps, experimenting with embedded systems, exploring OSINT and privacy, and turning ideas into practical projects.
-
-```javascript
+👨‍💻 About Me
+I'm Dinusha Malshan, a software engineering student at the National Institute of Business Management (NIBM), Sri Lanka. I enjoy building web and mobile apps, experimenting with embedded systems, exploring OSINT and privacy, and turning ideas into practical projects.
 const dinusha = {
   location: "Sri Lanka 🇱🇰",
   education: "Software Engineering @ NIBM",
@@ -51,38 +46,34 @@ const dinusha = {
   fuel: ["Black Coffee ☕", "Aloe Vera 🥤"],
   motto: "Learn. Build. Improve. Repeat."
 };
-```
-
-- 🔭 **Currently building:** StudyBuddy Geo and OSINT & Anti-Scam Data Tracker
-- 🌱 **Learning and exploring:** Rust backends, Next.js, cybersecurity, mobile apps, and IoT
-- 🏎️ **Hardware hobby:** Custom ESP32-S3-powered 4WD robot
-- 🎨 **Creative side:** Digital graphic design and Mercedes-AMG F1-themed t-shirt concepts
-- 📚 **Author:** *The Complete Front-End Developer Guide: HTML to React in 30 Days*
-- 🤝 **Open to:** Interesting projects, freelance work, and developer collaborations
-
+- 🔭 Currently building: StudyBuddy Geo and OSINT & Anti-Scam Data Tracker
+- 🌱 Learning and exploring: Rust backends, Next.js, cybersecurity, mobile apps, and IoT
+- 🏎️ Hardware hobby: Custom ESP32-S3-powered 4WD robot
+- 🎨 Creative side: Digital graphic design and Mercedes-AMG F1-themed t-shirt concepts
+- 📚 Author: The Complete Front-End Developer Guide: HTML to React in 30 Days
+- 🤝 Open to: Interesting projects, freelance work, and developer collaborations
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
-## ⚡ Tech Stack & Tools
-
+⚡ Tech Stack & Tools
 <div align="center">
 
-**🌐 Frontend & Web**
-
+🌐 Frontend & Web
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark" alt="Frontend technologies" />
 
-**⚙️ Backend & Databases**
 
+⚙️ Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,rust,prisma,mongodb,firebase,sqlite&amp;theme=dark" alt="Backend technologies" />
 
-**📱 Programming, Android & Hardware**
 
+📱 Programming, Android & Hardware
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cpp,python,arduino&amp;theme=dark" alt="Programming and hardware" />
 
-**🧰 Design & Developer Tools**
 
+🧰 Design & Developer Tools
 <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,linux,postman&amp;theme=dark" alt="Development tools" />
 
-<br/><br/>
+
+
 
 <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle Database" />
 <img src="https://img.shields.io/badge/Roblox%20Studio-111111?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=white" alt="Roblox Studio" />
@@ -91,12 +82,10 @@ const dinusha = {
 
 </div>
 
-**Also working with:** Luau, Oracle SQL, qBittorrent, and embedded sensors.
-
+Also working with: Luau, Oracle SQL, qBittorrent, and embedded sensors.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
-## 🚀 Featured Software Projects
-
+🚀 Featured Software Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -148,43 +137,63 @@ const dinusha = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
-## 🏆 Achievements & Milestones
+🏆 Achievements & Milestones
+🎯 Highlight	Details
+🎓 Education	Software Engineering at NIBM Sri Lanka
+🦈 GitHub Pull Shark	GitHub achievement
+⚡ GitHub Quickdraw	GitHub achievement
+🚀 GitHub YOLO	GitHub achievement
+🗃️ Oracle Database	Completed 31-task SQL coursework for ImagineF
+📚 Author	Published a front-end development e-book in August 2026
+🤖 Maker	Built a custom ESP32-S3 4WD smart robot
 
-| 🎯 Highlight | Details |
-| :-- | :-- |
-| 🎓 Education | Software Engineering at NIBM Sri Lanka |
-| 🦈 GitHub Pull Shark | GitHub achievement |
-| ⚡ GitHub Quickdraw | GitHub achievement |
-| 🚀 GitHub YOLO | GitHub achievement |
-| 🗃️ Oracle Database | Completed 31-task SQL coursework for **ImagineF** |
-| 📚 Author | Published a front-end development e-book in **August 2026** |
-| 🤖 Maker | Built a custom **ESP32-S3 4WD smart robot** |
 
-### 📖 My E-Book
-
-**The Complete Front-End Developer Guide: HTML to React in 30 Days**
+📖 My E-Book
+The Complete Front-End Developer Guide: HTML to React in 30 Days
 
 A guide to learning front-end development, from HTML fundamentals to building with React. Published on Gumroad in August 2026.
-
 <div align="center">
   <a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/View%20My%20Gumroad%20Store-FF90E8?style=for-the-badge&amp;logo=gumroad&amp;logoColor=black" alt="My Gumroad store" /></a>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
-## 🕵️ Cybersecurity, Privacy & Research
-
-- **Security environments:** Kali Linux, Parrot Security Edition, and Tails OS
-- **Research interests:** OSINT, anti-scam intelligence, and responsible use of public data
-- **Finance and innovation:** Colombo Stock Exchange (CSE), Cargills Bank PLC research,solar net metering in Sri Lanka
+🕵️ Cybersecurity, Privacy & Research
+- Security environments: Kali Linux, Parrot Security Edition, and Tails OS
+- Research interests: OSINT, anti-scam intelligence, and responsible use of public data
+- Finance and innovation: Colombo Stock Exchange (CSE), Cargills Bank PLC research,solar net metering in Sri Lanka
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dinushamalshan37-oss&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38B2AC&amp;icon_color=38B2AC&amp;text_color=FFFFFF" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38B2AC&amp;text_color=FFFFFF" alt="Top programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinushamalshan37-oss&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38B2AC&amp;icon_color=38B2AC&amp;text_color=FFFFFF" alt="GitHub statistics" />
 </div>
+
+📈 Most Used Languages (Live GitHub Statistics)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&amp;layout=compact&amp;langs_count=20&amp;size_weight=0.5&amp;count_weight=0.5&amp;card_width=480&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38B2AC&amp;text_color=FFFFFF" alt="Most used languages across public GitHub repositories" />
+</div>
+
+💻 All Languages I've Worked With
+<!-- This is a manually maintained list of languages/markup used or explored.
+     Unlike the chart above, these badges do not depend on GitHub's language statistics.
+     Add a badge when you work with another language. -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/Luau-0052CC?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=white" alt="Luau" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3" />
+</div>
+
+<p align="center"><i>Languages and markup I've used or explored — this list stays visible even when a language is missing from the live statistics card.</i></p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dinushamalshan37-oss&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=38B2AC&amp;fire=FF9800&amp;currStreakLabel=38B2AC" alt="GitHub contribution streak" />
@@ -202,8 +211,7 @@ A guide to learning front-end development, from HTML fundamentals to building wi
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
-## 🤝 Let's Connect & Collaborate
-
+🤝 Let's Connect & Collaborate
 <div align="center">
   <h3>Have a project idea? Let's build something awesome! 🚀</h3>
   <p>I'm interested in software projects, freelance opportunities, and connecting with developers around the world.</p>
