@@ -176,18 +176,8 @@ A guide to learning front-end development, from HTML fundamentals to building wi
 ## 🕵️ Cybersecurity, Privacy & Research
 
 - **Security environments:** Kali Linux, Parrot Security Edition, and Tails OS
-- **Privacy tools:** Tor Browser, uBlock Origin, and Stylus for dark CSS themes
 - **Research interests:** OSINT, anti-scam intelligence, and responsible use of public data
-- **Finance and innovation:** Colombo Stock Exchange (CSE), Cargills Bank PLC research, Binance/Bybit P2P comparisons, and solar net metering in Sri Lanka
-
-## 🛠️ Hardware, Robotics & My Setup
-
-- **4WD Smart Robot:** ESP32-S3, C++, SG90 servo, HC-SR04 ultrasonic sensor, IR obstacle sensors, NEO-6M GPS, SIM800L GSM, and LM2596 buck converter
-- **Desktop:** AMD Ryzen 5 5600 · GALAX RTX 2060 6GB · 16GB DDR4 RAM · NVMe SSD · Skydigital 600W PSU
-- **Desk & peripherals:** 144Hz monitor, T-Wolf keyboard, PROLINK 1200VA UPS, Kevilton multi-socket adapters, and Casio fx-991MS
-- **Workspace:** LED-lit glass display cabinets with collectibles and figures
-- **Mobile:** iPhone 12 Pro (iOS 27)
-
+- **Finance and innovation:** Colombo Stock Exchange (CSE), Cargills Bank PLC research,solar net metering in Sri Lanka
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
 ## 📊 GitHub Analytics
