@@ -199,16 +199,6 @@ A guide to learning front-end development, from HTML fundamentals to building wi
   <img src="https://streak-stats.demolab.com?user=dinushamalshan37-oss&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=38B2AC&amp;fire=FF9800&amp;currStreakLabel=38B2AC" alt="GitHub contribution streak" />
 </div>
 
-<h3>📈 Contribution Activity</h3>
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinushamalshan37-oss&amp;theme=tokyonight"
-    width="100%"
-    alt="GitHub Contribution Summary"
-  />
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
 🤝 Let's Connect & Collaborate
