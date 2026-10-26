@@ -1,111 +1,231 @@
-<!-- ========================================================== -->
-<!-- DINUSHA MALSHAN | GITHUB PROFILE | CYBERPUNK EDITION       -->
-<!-- Dark background • Electric blue • Neon orange • Animation -->
-<!-- ========================================================== -->
+
+<!-- ============================================ -->
+<!--      DINUSHA MALSHAN | GITHUB PROFILE       -->
+<!--       DARK CYBERPUNK DEVELOPER THEME         -->
+<!-- ============================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050A12,45:101F38,75:163C71,100:FF7417&amp;height=230&amp;section=header&amp;text=DINUSHA%20MALSHAN&amp;fontSize=52&amp;fontColor=F2F7FF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=SOFTWARE%20ENGINEER%20IN%20PROGRESS%20%7C%20BUILDER%20%7C%20CREATOR&amp;descAlignY=58&amp;descSize=16" alt="Dinusha Malshan animated cyberpunk header" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=23&amp;duration=2800&amp;pause=900&amp;color=56B6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=850&amp;height=60&amp;lines=%3E_+Hello%2C+World%21+I%27m+Dinusha+Malshan;%3E_+Software+Engineering+Student+%40+NIBM;%3E_+Full-Stack+%7C+Android+%7C+Robotics;%3E_+Exploring+Cybersecurity+%26+OSINT;%3E_+Turning+Ideas+Into+Code+%E2%9A%A1" alt="Typing animation introducing Dinusha" />
-  </a>
+  <img src="assets/night-coder.png" width="100%" alt="Cyberpunk Coding Setup" />
 
-  <p><b>🇱🇰 Sri Lanka &nbsp;|&nbsp; 🎓 NIBM Software Engineering &nbsp;|&nbsp; 💻 Build • Break • Learn • Repeat</b></p>
+  <h1>⚡ DINUSHA MALSHAN ⚡</h1>
 
-  <a href="https://github.com/dinushamalshan37-oss"><img src="https://komarev.com/ghpvc/?username=dinushamalshan37-oss&amp;label=PROFILE+VIEWS&amp;color=1674B8&amp;style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/dinushamalshan37-oss?tab=followers"><img src="https://img.shields.io/github/followers/dinushamalshan37-oss?label=FOLLOWERS&amp;style=for-the-badge&amp;color=FF7417&amp;labelColor=101725" alt="Followers" /></a>
-  <a href="https://github.com/dinushamalshan37-oss?tab=repositories"><img src="https://img.shields.io/github/stars/dinushamalshan37-oss?label=STARS&amp;style=for-the-badge&amp;color=1685D1&amp;labelColor=101725" alt="Stars" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=800&color=38B6FF&center=true&vCenter=true&width=850&lines=Hey+There!+I'm+Dinusha+Malshan;Software+Engineering+Student;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Cybersecurity+%7C+Robotics+%7C+IoT;Eat.+Sleep.+Code.+Repeat." alt="Typing Animation" />
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=dinushamalshan37-oss&style=for-the-badge&color=007ACC&label=PROFILE+VIEWS" />
+
+  <img src="https://img.shields.io/github/followers/dinushamalshan37-oss?style=for-the-badge&color=FF7518&label=FOLLOWERS" />
+
+  <img src="https://img.shields.io/github/stars/dinushamalshan37-oss?style=for-the-badge&color=007ACC&label=STARS" />
+
 </div>
 
+---
 
-<div align="center">
-  <img src="assets/night-coder.png" width="440" alt="Dark cyberpunk workstation with glowing blue screens and a developer coding" />
-  <p><i>🌙 Code after dark. Create beyond limits.</i></p>
-</div>
+## 💻 About Me
 
-> whoami 👨‍💻
-const dinusha = {
-  name: "Dinusha Malshan",
-  location: "Sri Lanka 🇱🇰",
-  education: "Software Engineering @ NIBM",
-  roles: ["Developer", "Maker", "Tech Enthusiast"],
-  passions: ["Full-Stack", "Android", "Robotics", "Cybersecurity"],
-  building: ["StudyBuddy Geo", "OSINT & Anti-Scam Tracker"],
-  motto: "Learn. Build. Improve. Repeat."
+```javascript
+const developer = {
+    name: "Dinusha Malshan",
+    location: "Sri Lanka 🇱🇰",
+    education: "Software Engineering @ NIBM",
+
+    interests: [
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Robotics & IoT",
+        "Mobile App Development"
+    ],
+
+    currentlyLearning: [
+        "Python",
+        "Next.js",
+        "AI Agents",
+        "Cybersecurity"
+    ],
+
+    motto: "Code. Create. Innovate."
 };
-I'm a software engineering student at NIBM, Sri Lanka, passionate about creating practical applications, exploring robotics and IoT, and learning more about privacy and cybersecurity.
-- 🔭 Working on StudyBuddy Geo and an OSINT & Anti-Scam Tracker
-- 🌱 Exploring Next.js, Rust, Android and cybersecurity
-- 🤖 Interested in ESP32-S3 robotics, sensors and automation
-- 🤝 Open to collaborations, freelance work and creative projects
-- ⚡ Motto: Stay curious. Keep shipping.
-> tech --stack ⚡
+```
+
+- 🎓 Software Engineering Student at **NIBM Sri Lanka**
+- 💻 Passionate about software development
+- 🤖 Exploring AI Agents and automation
+- 🛡️ Interested in cybersecurity and OSINT
+- 🚀 Building creative and useful applications
+- ☕ Powered by coffee and late-night coding
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
 
-Languages & Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,java,cpp&amp;theme=dark" alt="Frontend and languages" />
+### ⚡ Programming Languages
 
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,kotlin,html,css&theme=dark" />
 
-Backend, Data & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,git,github,vscode,docker&amp;theme=dark" alt="Backend, databases and tools" />
+### 🌐 Frontend Development
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" />
 
-Creative, Security & Hardware
-<img src="https://skillicons.dev/icons?i=figma,linux,kali,arduino,androidstudio&amp;theme=dark" alt="Creative, security and embedded tools" />
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,firebase,sqlite,prisma&theme=dark" />
+
+### 🔧 Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,androidstudio&theme=dark" />
+
+### 🤖 Hardware & Robotics
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&theme=dark" />
 
 </div>
 
-> ls ./projects 🚀
-Project	Description	Area
-🗺️ StudyBuddy Geo	Location-oriented student utility concept	App Development
-🛡️ OSINT & Anti-Scam Tracker	Researching ways to organize public data and anti-scam insights responsibly	Security / Research
-💬 Real-Time Chat App	Messaging application experiments	Full-Stack
-🤖 ESP32-S3 4WD Robot	Custom robotics build using sensors and embedded controls	Robotics / IoT
-🛒 Digital Marketplace Architecture	Researching full-stack digital marketplace design	Web Architecture
-🎮 Roblox Game Development	Interactive gameplay and scripting projects	Luau / Roblox
-🤖 ChatFlow AI WhatsApp Bot	Business chatbot starter using Python and Meta WhatsApp Cloud API	AI / Automation
+---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 ChatFlow AI
+
+**Intelligent WhatsApp AI Chatbot**
+
+- Python + FastAPI
+- OpenAI API
+- WhatsApp Cloud API
+- Automated Responses
+- Webhook Integration
+
+</td>
+<td width="50%" valign="top">
+
+### 📍 StudyBuddy Geo
+
+**Smart Study Group Discovery**
+
+- Android Development
+- Kotlin
+- Jetpack Compose
+- Location-Based Features
+- Modern UI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ OSINT Tracker
+
+**Cybersecurity Research Project**
+
+- OSINT Research
+- Anti-Scam Intelligence
+- Rust Backend
+- Next.js Frontend
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Smart Robot
+
+**ESP32-S3 Robotics Project**
+
+- ESP32-S3
+- C++ Programming
+- Sensor Integration
+- GPS & GSM
+- IoT Automation
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <a href="https://github.com/dinushamalshan37-oss?tab=repositories">
-    <img src="https://img.shields.io/badge/%3E_VIEW_ALL_REPOSITORIES-FF7417?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=101725" alt="Explore all repositories" />
-  </a>
+
+[![Repositories](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinushamalshan37-oss?tab=repositories)
+
 </div>
 
-> cat achievements.log 🏆
-- 🎓 Studying Software Engineering at NIBM
-- 🤖 Building embedded systems and robotics projects
-- 🔐 Exploring OSINT, online safety and privacy research
-- 📚 Writing and sharing knowledge about front-end development
-📘 My E-Book
-The Complete Front-End Developer Guide: HTML to React in 30 Days
+---
 
-<a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/EXPLORE_MY_GUMROAD-FF7417?style=for-the-badge&amp;logo=gumroad&amp;logoColor=white&amp;labelColor=101725" alt="Gumroad store" /></a>
-> github --analytics 📊
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinushamalshan37-oss&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF7417&amp;text_color=DFE8F6&amp;icon_color=56B6FF" height="170" alt="GitHub profile statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF7417&amp;text_color=DFE8F6" height="170" alt="Most used languages" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=dinushamalshan37-oss&amp;hide_border=true&amp;background=0D1117&amp;ring=FF7417&amp;fire=FF7417&amp;currStreakLabel=56B6FF&amp;sideLabels=DFE8F6&amp;dates=9CA9C0" alt="GitHub contribution streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinushamalshan37-oss&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dinushamalshan37-oss&theme=tokyonight&hide_border=true" />
+
 </div>
 
-🐍 Contribution Snake Animation
-<!-- The snake appears after enabling GitHub Actions and running the included workflow. -->
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dinushamalshan37-oss/dinushamalshan37-oss/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake (requires workflow to run)" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinushamalshan37-oss&bg_color=0D1117&color=38B6FF&line=FF7518&point=FFFFFF&area=true&hide_border=true" />
+
 </div>
 
-> connect --now 🌐
+---
+
+## 🎯 Currently Exploring
+
+```text
+[+] Artificial Intelligence
+[+] AI Agents & Chatbots
+[+] Full Stack Web Development
+[+] Cybersecurity & OSINT
+[+] Robotics & IoT Systems
+[+] Open Source Development
+```
+
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
-  <a href="mailto:dinushamalshan37@gmil.com"><img src="https://img.shields.io/badge/EMAIL-FF7417?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=101725" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/dinusha-malshan-20a9ab359/"><img src="https://img.shields.io/badge/LINKEDIN-1674B8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101725" alt="LinkedIn" /></a>
-  <a href="https://www.upwork.com/freelancers/~019eb62f2277597a94"><img src="https://img.shields.io/badge/UPWORK-16A34A?style=for-the-badge&amp;logo=upwork&amp;logoColor=white&amp;labelColor=101725" alt="Upwork" /></a>
-  <a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/GUMROAD-FF7417?style=for-the-badge&amp;logo=gumroad&amp;logoColor=white&amp;labelColor=101725" alt="Gumroad" /></a>
+
+<a href="https://www.linkedin.com/in/dinusha-malshan-20a9ab359/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~019eb62f2277597a94">
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<a href="https://dinushamalshan.gumroad.com/">
+<img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black"/>
+</a>
+
+<a href="https://github.com/dinushamalshan37-oss">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;duration=2800&amp;pause=1000&amp;color=FF7417&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%3E_+Thanks+for+visiting+my+profile!;%3E_+Keep+Learning.+Keep+Building.+Keep+Creating." alt="Animated outro" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF7417,50:163C71,100:050A12&amp;height=120&amp;section=footer" width="100%" alt="Cyberpunk footer" />
+### ⚡ "Turning Ideas Into Reality, One Line of Code at a Time."
+
+**Thanks for visiting my GitHub profile! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,50:101F38,100:FF7518&height=110&section=footer" width="100%" />
+
 </div>
