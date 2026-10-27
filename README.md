@@ -26,8 +26,6 @@
 - 🤖 Exploring **ESP32 robotics, cybersecurity, privacy, and open source**.
 - 🤝 Open to **collaboration, internships, and software projects**.
 
-### 💻 Languages & Tools
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,go,cs,dart,c,cpp,rust,kotlin,bash&theme=dark&perline=12" alt="Programming Languages" />
@@ -42,8 +40,6 @@
 
 </div>
 
-### 📊 Most Used Languages (Live GitHub Statistics)
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&card_width=480&theme=github_dark&hide_border=true&title_color=D1D5DB&text_color=9CA3AF" width="480" alt="Most Used Languages" />
@@ -57,13 +53,10 @@
 ### ⚡ Currently Exploring
 
 `Backend Engineering` · `Mobile UX` · `DevOps` · `Linux Systems` · `Cybersecurity`
-
 ---
-
 <div align="center">
 
 <b>Learn. Build. Improve. Repeat.</b>
-
 <br /><br />
 
 <a href="https://github.com/dinushamalshan37-oss?tab=repositories">Explore Repositories</a> ·
