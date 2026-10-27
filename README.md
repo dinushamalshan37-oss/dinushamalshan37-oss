@@ -54,18 +54,6 @@
 
 </div>
 
-### 🚀 Selected Projects
-
-| Project | Language | Description |
-|:---|:---:|:---|
-| **PulseGuard** | Go | Website and API health monitoring |
-| **QueueWise** | C# | Smart queue management system |
-| **SkillSwap** | Dart / Flutter | Student skill exchange application |
-| **MiniScope** | C | Linux system and process monitoring |
-| **RepoPilot** | Bash | Developer environment automation |
-
-<sub>Portfolio builds and learning projects. Features vary by MVP.</sub>
-
 ### ⚡ Currently Exploring
 
 `Backend Engineering` · `Mobile UX` · `DevOps` · `Linux Systems` · `Cybersecurity`
