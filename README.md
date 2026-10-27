@@ -33,8 +33,6 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-
 👨‍💻 About Me
 I'm Dinusha Malshan, a software engineering student at the National Institute of Business Management (NIBM), Sri Lanka. I enjoy building web and mobile apps, experimenting with embedded systems, exploring OSINT and privacy, and turning ideas into practical projects.
 const dinusha = {
@@ -52,25 +50,23 @@ const dinusha = {
 - 🎨 Creative side: Digital graphic design and Mercedes-AMG F1-themed t-shirt concepts
 - 📚 Author: The Complete Front-End Developer Guide: HTML to React in 30 Days
 - 🤝 Open to: Interesting projects, freelance work, and developer collaborations
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-
 ⚡ Tech Stack & Tools
 <div align="center">
 
-🌐 Frontend & Web
+<h3>🌐 Frontend & Web</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark" alt="Frontend technologies" />
 
 
-⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,rust,prisma,mongodb,firebase,sqlite&amp;theme=dark" alt="Backend technologies" />
+<h3>⚙️ Backend & Databases</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,go,cs,rust,prisma,mongodb,firebase,sqlite&amp;theme=dark" alt="Backend technologies" />
 
 
-📱 Programming, Android & Hardware
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cpp,python,arduino&amp;theme=dark" alt="Programming and hardware" />
+<h3>📱 Programming, Android & Hardware</h3>
+<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,androidstudio,c,cpp,python,arduino&amp;theme=dark" alt="Programming and hardware" />
 
 
-🧰 Design & Developer Tools
-<img src="https://skillicons.dev/icons?i=figma,vscode,git,github,linux,postman&amp;theme=dark" alt="Development tools" />
+<h3>🧰 Design & Developer Tools</h3>
+<img src="https://skillicons.dev/icons?i=bash,figma,vscode,git,github,linux,postman&amp;theme=dark" alt="Development tools" />
 
 
 
@@ -83,8 +79,6 @@ const dinusha = {
 </div>
 
 Also working with: Luau, Oracle SQL, qBittorrent, and embedded sensors.
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-
 🚀 Featured Software Projects
 <table>
   <tr>
@@ -131,11 +125,19 @@ Also working with: Luau, Oracle SQL, qBittorrent, and embedded sensors.
   </tr>
 </table>
 
+🧩 New Portfolio Projects — Go, C#, Dart, C & Bash
+Project	Language	Description
+🟢 PulseGuard	Go	Website and API monitoring with HTTP health checks and a dashboard
+🎟️ QueueWise	C#	Queue tickets, service counters, and live queue updates
+🎓 SkillSwap	Dart / Flutter	Student skill discovery, matching, and demo exchanges
+🐧 MiniScope	C	Linux CPU, RAM, and process monitoring in a terminal
+🧰 RepoPilot	Bash	Project technology detection and environment diagnostics
+
+
+<sub>Project links work after the matching repositories are published under this GitHub account.</sub>
 <div align="center">
   <a href="https://github.com/dinushamalshan37-oss?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Repositories-38B2AC?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories" /></a>
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
 🏆 Achievements & Milestones
 🎯 Highlight	Details
@@ -156,14 +158,10 @@ A guide to learning front-end development, from HTML fundamentals to building wi
   <a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/View%20My%20Gumroad%20Store-FF90E8?style=for-the-badge&amp;logo=gumroad&amp;logoColor=black" alt="My Gumroad store" /></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-
 🕵️ Cybersecurity, Privacy & Research
 - Security environments: Kali Linux, Parrot Security Edition, and Tails OS
 - Research interests: OSINT, anti-scam intelligence, and responsible use of public data
 - Finance and innovation: Colombo Stock Exchange (CSE), Cargills Bank PLC research,solar net metering in Sri Lanka
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-
 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinushamalshan37-oss&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38B2AC&amp;icon_color=38B2AC&amp;text_color=FFFFFF" alt="GitHub statistics" />
@@ -173,6 +171,8 @@ A guide to learning front-end development, from HTML fundamentals to building wi
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&amp;layout=compact&amp;langs_count=20&amp;size_weight=0.5&amp;count_weight=0.5&amp;card_width=480&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38B2AC&amp;text_color=FFFFFF" alt="Most used languages across public GitHub repositories" />
 </div>
+
+<p align="center"><sub>The live chart uses GitHub repository data; badges below are manually curated and do not change the chart percentages.</sub></p>
 
 💻 All Languages I've Worked With
 <!-- This is a manually maintained list of languages/markup used or explored.
@@ -191,6 +191,11 @@ A guide to learning front-end development, from HTML fundamentals to building wi
   <img src="https://img.shields.io/badge/Luau-0052CC?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=white" alt="Luau" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
 </div>
 
 <p align="center"><i>Languages and markup I've used or explored — this list stays visible even when a language is missing from the live statistics card.</i></p>
@@ -198,8 +203,6 @@ A guide to learning front-end development, from HTML fundamentals to building wi
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dinushamalshan37-oss&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=38B2AC&amp;fire=FF9800&amp;currStreakLabel=38B2AC" alt="GitHub contribution streak" />
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 
 🤝 Let's Connect & Collaborate
 <div align="center">
@@ -210,7 +213,7 @@ A guide to learning front-end development, from HTML fundamentals to building wi
   <a href="https://www.upwork.com/freelancers/~019eb62f2277597a94"><img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14A800?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Hire me on Upwork" /></a>
   <a href="https://dinushamalshan.gumroad.com/"><img src="https://img.shields.io/badge/My%20E--Book-FF90E8?style=for-the-badge&amp;logo=gumroad&amp;logoColor=black" alt="My e-book" />
 </a>
-  <br/><br/>
+
   <p><strong>⭐ If you find one of my projects useful, consider giving it a star!</strong></p>
   <p><em>"Learn. Build. Improve. Repeat."</em></p>
 </div>
