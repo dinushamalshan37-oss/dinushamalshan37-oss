@@ -41,19 +41,6 @@
 </div>
 
 ---
-
-### 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&layout=compact&langs_count=8&theme=github_dark&hide_border=true" width="480" alt="Most Used Languages" />
-
-<br />
-
-<sub>Language statistics based on public GitHub repositories.</sub>
-
-</div>
-
 ---
 
 ### ⚡ Currently Exploring
