@@ -1,4 +1,4 @@
-
+ 
 <!-- Minimal • Professional • Compact GitHub Profile README -->
 
 <div align="center">
@@ -40,23 +40,32 @@
 
 </div>
 
+---
+
+### 📊 Most Used Languages
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&card_width=480&theme=github_dark&hide_border=true&title_color=D1D5DB&text_color=9CA3AF" width="480" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinushamalshan37-oss&layout=compact&langs_count=8&theme=github_dark&hide_border=true" width="480" alt="Most Used Languages" />
 
 <br />
 
-<sub>Live language statistics based on public GitHub repositories.</sub>
+<sub>Language statistics based on public GitHub repositories.</sub>
 
 </div>
+
+---
 
 ### ⚡ Currently Exploring
 
 `Backend Engineering` · `Mobile UX` · `DevOps` · `Linux Systems` · `Cybersecurity`
+
 ---
+
 <div align="center">
 
 <b>Learn. Build. Improve. Repeat.</b>
+
 <br /><br />
 
 <a href="https://github.com/dinushamalshan37-oss?tab=repositories">Explore Repositories</a> ·
